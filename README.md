@@ -2,6 +2,12 @@
 
 Q1_ (what was the first product purchase by each customer?)
 
+Q2_ (what is the most purchased item on the menu and how many times was it purchased by all customers?)
+
+Q3_ (what is the total amount each customer spend on zomato?)
+
+Q4_ (what was the first product purchase by each customer?)
+
 Q2_ (which item was the most popular for each customer?)
 
 Q3_ (which item purchased first by the customer after they became a member?)
