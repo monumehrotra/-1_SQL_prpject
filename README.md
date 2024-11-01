@@ -1,4 +1,4 @@
-# -1_SQL_prpject
+# -1_SQL_project
 
 Q1_ (what was the first product purchase by each customer?)
 
